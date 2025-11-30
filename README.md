@@ -14,7 +14,7 @@ The data is pulled from Kafka topics and uploaded to blob storage through ADF pi
 
  ADLS             |  Blob files
 :-------------------------:|:-------------------------:
-<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/3f82ec7a-f83e-4371-bfb5-9796a83b53ab" />  |  <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/2c10f08f-dbbb-40c0-a899-6ef7b31b64f5" />
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/2c10f08f-dbbb-40c0-a899-6ef7b31b64f5" />  |  <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/3f82ec7a-f83e-4371-bfb5-9796a83b53ab" />
 
 
 After creation of external data sources, a Config file is setup to parameterize the file paths and variables. All the notebooks utilize it and thus avoid any hard codings. The historical loads is a one time noteboooks which is utilized in creating the historical data available in the delta tables.
