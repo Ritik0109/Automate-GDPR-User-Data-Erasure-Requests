@@ -13,6 +13,7 @@ As a Senior Data Engineer, I built an automated GDPR deletion engine using ADLS 
  ADLS             |  Blob files
 :-------------------------:|:-------------------------:
 <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/3f82ec7a-f83e-4371-bfb5-9796a83b53ab" />  |  <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/2c10f08f-dbbb-40c0-a899-6ef7b31b64f5" />
+
 The data is pulled from Kafka topics and uploaded to blob storage through ADF pipelines. Here we are using Databricks to successfully connect and ingest data into delta tables using pyspark codes.
 
 
