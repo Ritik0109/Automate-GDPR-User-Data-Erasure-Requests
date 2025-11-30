@@ -1,4 +1,4 @@
-# Automate-GDPR-User-Data-Erasure-Requests
+# Automate GDPR User Data Erasure Requests
 
  ADLS             |  Blob files
 :-------------------------:|:-------------------------:
@@ -22,7 +22,5 @@
 
 
 
-##Audit Trial
+## Audit Trial
 <img width="940" height="449" alt="image" src="https://github.com/user-attachments/assets/e0cb1fcc-fb07-42a6-94a2-c9d3835dff01" />
-
-
