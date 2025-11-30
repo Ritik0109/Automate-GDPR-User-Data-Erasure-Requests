@@ -1,17 +1,12 @@
 # Automate-GDPR-User-Data-Erasure-Requests
 
 
-<img width="602" height="289" alt="Picture1" src="https://github.com/user-attachments/assets/8b52e2c9-5c48-4191-9279-a1c6fbcccd59" />
+<img width="940" height="451" alt="image" src="https://github.com/user-attachments/assets/a432ab41-2ac2-47b7-ba22-1706d919e7d0" />
+<img width="940" height="433" alt="image" src="https://github.com/user-attachments/assets/fdac527a-5189-4236-99f2-1b7e054f15e6" />
+<img width="940" height="449" alt="image" src="https://github.com/user-attachments/assets/d23eacfb-4e1e-420c-9303-3ac46c8884fa" />
+<img width="940" height="430" alt="image" src="https://github.com/user-attachments/assets/98840fe1-4463-4303-92e0-def0816ab7b9" />
+<img width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/5aecdf64-5d34-440e-8677-bcad9aaf5e24" />
+<img width="940" height="437" alt="image" src="https://github.com/user-attachments/assets/fcd4e729-41ee-4019-ae44-44bee5d9c67d" />
+<img width="940" height="449" alt="image" src="https://github.com/user-attachments/assets/e0cb1fcc-fb07-42a6-94a2-c9d3835dff01" />
 
 
-<img width="602" height="277" alt="Picture2" src="https://github.com/user-attachments/assets/fd98e9a4-48ca-4acf-849b-e246233cd63b" />
-
-<img width="602" height="288" alt="Picture3" src="https://github.com/user-attachments/assets/95ebba4d-f8f3-4c6b-af19-c3fd3d14439b" />
-
-<img width="602" height="275" alt="Picture4" src="https://github.com/user-attachments/assets/9add1cd9-1414-4f08-bc3f-eb577cb6fd92" />
-
-<img width="602" height="285" alt="Picture5" src="https://github.com/user-attachments/assets/b60ed99b-9c73-4e4f-8a0b-645403402939" />
-
-<img width="602" height="279" alt="Picture6" src="https://github.com/user-attachments/assets/268d6704-fee4-4377-a178-1250fade43cd" />
-
-<img width="602" height="287" alt="Picture7" src="https://github.com/user-attachments/assets/f63022dc-ed38-4623-9e0f-5e9f565cb474" />
