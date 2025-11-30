@@ -1,5 +1,9 @@
 # Automate-GDPR-User-Data-Erasure-Requests
 
+ ADLS             |  Blob files
+:-------------------------:|:-------------------------:
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/3f82ec7a-f83e-4371-bfb5-9796a83b53ab" />  |  <img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/2c10f08f-dbbb-40c0-a899-6ef7b31b64f5" />
+
 <img width="1850" height="853" alt="image" src="https://github.com/user-attachments/assets/2c10f08f-dbbb-40c0-a899-6ef7b31b64f5" />
 <img width="1823" height="838" alt="image" src="https://github.com/user-attachments/assets/3f82ec7a-f83e-4371-bfb5-9796a83b53ab" />
 <img width="940" height="451" alt="image" src="https://github.com/user-attachments/assets/a432ab41-2ac2-47b7-ba22-1706d919e7d0" />
